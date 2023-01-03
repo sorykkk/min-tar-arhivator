@@ -1,0 +1,6 @@
+this is a document text for tar archivator 2
+with multiline
+text
+
+etc
+etc
